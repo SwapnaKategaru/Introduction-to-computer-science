@@ -84,7 +84,7 @@ def set_range(a, b, c):
             smaller = a
     return bigger - smaller
 
-# ######### OR #########
+# ###########################  OR  ###########################
 
 
 def set_range(a, b, c):
